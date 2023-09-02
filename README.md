@@ -5,13 +5,13 @@ This repository dives into augmented reality (AR) by overlaying virtual objects 
 Introduction:
 
 This repository invites you to delve into the world of augmented reality (AR) by designing an application that projects virtual object models into a real-world video sequence as if they coexist. The crux of the project is to deduce the camera's position and orientation in relation to a known object, paving the way for the seamless integration of virtual elements.
-Given Resources:
 
-    Video Sequence: The video provided has an AprilTag embedded in each frame. Renowned in robotics, AprilTags are pivotal in discerning the camera's pose.
+**Given Resources:**
 
-    Tag Details: To streamline your workflow, the pixel coordinates of the four corners of the AprilTag are furnished, along with the tag's dimensions.
+**Video Sequence:** The video provided has an AprilTag embedded in each frame. Renowned in robotics, AprilTags are pivotal in discerning the camera's pose.
+**Tag Details:** To streamline your workflow, the pixel coordinates of the four corners of the AprilTag are furnished, along with the tag's dimensions.
 
-Core Tasks:
+**Core Tasks:**
 
     Camera Pose Recovery:
         Perspective-N-Point (PnP): Utilizing the coplanar assumption, solve the PnP problem. This involves determining the camera's position and orientation by recognizing n points in the image and their corresponding world coordinates.
