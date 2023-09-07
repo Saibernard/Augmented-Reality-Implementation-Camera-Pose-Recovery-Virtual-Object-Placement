@@ -22,3 +22,13 @@ This repository invites you to delve into the world of augmented reality (AR) by
 
 
 **Virtual Object Placement:** Post-retrieval of the 3D relationship between the camera and the world, you'll have the leverage to embed arbitrary objects into the scene. Define the pixel positions to precisely dictate where these virtual objects should manifest.
+
+![vis](https://github.com/Saibernard/Augmented-Reality-Implementation-Camera-Pose-Recovery-Virtual-Object-Placement/assets/112599512/73938857-cdf2-4662-8959-f9b081fe7111)
+
+![VR_res-min](https://github.com/Saibernard/Augmented-Reality-Implementation-Camera-Pose-Recovery-Virtual-Object-Placement/assets/112599512/f119e918-e7a5-4476-bdbe-53e6e998f23c)
+
+
+
+
+
+
